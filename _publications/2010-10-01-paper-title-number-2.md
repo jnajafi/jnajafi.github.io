@@ -1,4 +1,15 @@
 ---
-## [Size-and position-dependent cytoplasm viscoelasticity through hydrodynamic interactions with the cell surface](https://www.pnas.org/doi/abs/10.1073/pnas.2216839120)
-**J Najafi**, S Dmitrieff, and N Minc\
-Proceedings of the National Academy of Sciences 120 (9), e2216839120
+title: "Paper Title Number 4"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-4
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2023-04-04
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
