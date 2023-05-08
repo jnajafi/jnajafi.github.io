@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
++ Size-and position-dependent cytoplasm viscoelasticity through hydrodynamic interactions with the cell surface
+  **Javad Najafi**, Serge Dmitrieff, and Nicolas Minc
+  [Proceedings of the National Academy of Sciences 120, no. 9 (2023): e2216839120.](https://www.pnas.org/doi/abs/10.1073/pnas.2216839120)
+  
