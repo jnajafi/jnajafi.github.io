@@ -17,7 +17,7 @@ author_profile: true
   **Javad Najafi**, Florian Altegoer, Gert Bange, and Christian Wagner <br>
   [Soft matter 15, no. 48 (2019): 10029-10034.](https://pubs.rsc.org/en/content/articlehtml/2019/sm/c9sm01790a)
   
-  + ### Flagellar number governs bacterial spreading and transport efficiency <br>
++ ### Flagellar number governs bacterial spreading and transport efficiency <br>
   **Javad Najafi**, M. Reza Shaebani, Thomas John, Florian Altegoer, Gert Bange, and Christian Wagner <br>
   [Science advances 4, no. 9 (2018): eaar6425.](https://www.science.org/doi/abs/10.1126/sciadv.aar6425)
 
