@@ -7,7 +7,8 @@ author_profile: true
 
 + ### Size-and position-dependent cytoplasm viscoelasticity through hydrodynamic interactions with the cell surface <br>
   **Javad Najafi**, Serge Dmitrieff, and Nicolas Minc <br>
-  [Proceedings of the National Academy of Sciences 120, no. 9 (2023): e2216839120.](https://www.pnas.org/doi/abs/10.1073/pnas.2216839120)
+   <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2216839120" style="text-decoration:none;">Proceedings of the National Academy of Sciences 120, no. 9 (2023): e2216839120.</a>
+
   
 + ### Contribution of cytoplasm viscoelastic properties to mitotic spindle positioning <br>
   Jing Xie, **Javad Najafi**, Rémi Le Borgne, Jean-Marc Verbavatz, Catherine Durieu, Jeremy Sallé, and Nicolas Minc <br>
