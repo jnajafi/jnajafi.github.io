@@ -83,7 +83,7 @@ author:
   name             : "Javad Najafi"
   avatar           : "profile.png"
   bio              : "Welcome to My Online Portfolio!"
-  location         : "Location"
+  location         : "Paris"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Cb6gqJQAAAAJ"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
