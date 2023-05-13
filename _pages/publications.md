@@ -11,17 +11,17 @@ author_profile: true
 
   
 + ### Contribution of cytoplasm viscoelastic properties to mitotic spindle positioning <br>
-  Jing Xie, **Javad Najafi**, Rémi Le Borgne, Jean-Marc Verbavatz, Catherine Durieu, Jeremy Sallé, and Nicolas Minc <br>
+  Jing Xie<sup>*</sup>, **Javad Najafi**<sup>*</sup>, Rémi Le Borgne, Jean-Marc Verbavatz, Catherine Durieu, Jeremy Sallé, and Nicolas Minc (<sup>*</sup>equal contribution) <br>
   <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2115593119" style="text-decoration:none;">Proceedings of the National Academy of Sciences 119, no. 8 (2022): e2115593119.</a>
 
   
 + ### Swimming of bacterium bacillus subtilis with multiple bundles of flagella <br>
-  **Javad Najafi**, Florian Altegoer, Gert Bange, and Christian Wagner <br>
+  **Javad Najafi**<sup>+</sup>, Florian Altegoer, Gert Bange, and Christian Wagner (<sup>+</sup>corresponding author) <br>
   <a href="https://pubs.rsc.org/en/content/articlehtml/2019/sm/c9sm01790a" style="text-decoration:none;">Soft matter 15, no. 48 (2019): 10029-10034.</a>
 
   
 + ### Flagellar number governs bacterial spreading and transport efficiency <br>
-  **Javad Najafi**, M. Reza Shaebani, Thomas John, Florian Altegoer, Gert Bange, and Christian Wagner <br>
+  **Javad Najafi**<sup>*</sup>, M. Reza Shaebani<sup>*</sup>, Thomas John, Florian Altegoer, Gert Bange, and Christian Wagner (<sup>*</sup>equal contribution) <br>
   <a href="https://www.science.org/doi/abs/10.1126/sciadv.aar6425" style="text-decoration:none;">Science advances 4, no. 9 (2018): eaar6425.</a>
 
 
@@ -31,7 +31,7 @@ author_profile: true
 
 
 + ### Ordered packing of elastic wires in a sphere <br>
-  **Javad Najafi**, Norbert Stoop, Falk Wittel, and Mehdi Habibi <br>
+  **Javad Najafi**<sup>+</sup>, Norbert Stoop, Falk Wittel, and Mehdi Habibi (<sup>+</sup>corresponding author) <br>
   <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.061108" style="text-decoration:none;">Physical Review E 85, no. 6 (2012): 061108.</a>
 
 
