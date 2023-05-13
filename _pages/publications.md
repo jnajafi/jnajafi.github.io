@@ -43,6 +43,8 @@ author_profile: true
 + ### Packing of elastic wires in spherical cavities <br>
   Norbert Stoop, **Javad Najafi**, Falk K. Wittel, Mehdi Habibi, and Hans J. Herrmann <br>
   <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.214102" style="text-decoration:none;">Physical review letters 106, no. 21 (2011): 214102.</a>
+  <img src="/images/cover.jpg" alt="PRL Cover Image" style="width:321px;height:400px;">
+
 
 
 
