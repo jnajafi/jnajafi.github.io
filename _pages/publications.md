@@ -11,8 +11,8 @@ author_profile: true
   
 + ### Contribution of cytoplasm viscoelastic properties to mitotic spindle positioning <br>
   Jing Xie<sup>*</sup>, **Javad Najafi**<sup>*</sup>, Rémi Le Borgne, Jean-Marc Verbavatz, Catherine Durieu, Jeremy Sallé, and Nicolas Minc (<sup>*</sup> equal contribution) <br>
-  <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2115593119" style="text-decoration:none;">Proceedings of the National Academy of Sciences 119, no. 8 (2022): e2115593119.</a>
-  - See highlight in PNAS [<a href="https://www.pnas.org/doi/10.1073/pnas.2203036119" style="text-decoration:none;">link</a>] <br>
+  <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2115593119" style="text-decoration:none;">Proceedings of the National Academy of Sciences 119, no. 8 (2022): e2115593119.</a> <br>
+      - See highlight in PNAS [<a href="https://www.pnas.org/doi/10.1073/pnas.2203036119" style="text-decoration:none;">link</a>] <br>
   
 + ### Swimming of bacterium bacillus subtilis with multiple bundles of flagella <br>
   **Javad Najafi**<sup>+</sup>, Florian Altegoer, Gert Bange, and Christian Wagner (<sup>+</sup> corresponding author) <br>
