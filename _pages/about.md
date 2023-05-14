@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to My Page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,3 +14,6 @@ I've been fortunate to work on a range of exciting interdisciplinary projects, i
 
 
 I am eager to apply my skills and expertise to solve challenging problems in any research and development or data-driven role. My interdisciplinary research experience and proficiency in modeling and data analysis make me well-suited for a range of positions in both industry and academia. Please explore the other tabs on this page for additional information about my work.
+
+  <img src="/images/Word Art.png" alt="Skills" style="width:728px;height:438px;" align="center">
+
