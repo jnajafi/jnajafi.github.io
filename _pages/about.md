@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 As a soft matter physicist with a background in material science and extensive experience in biophysics and quantitative biology, I have a passion for solving complex problems at the intersection of data science, physics, material science, and biology. With broad international research experience in interdisciplinary science, I specialize in the collection, analysis, and modeling of complex data to draw meaningful insights and patterns out of them.
 
 
