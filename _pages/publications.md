@@ -40,7 +40,7 @@ author_profile: true
   - See Synopsis in Physics [<a href="https://physics.aps.org/articles/v4/s79" style="text-decoration:none;">link</a>] <br>
   - See Soft Matter World Newsletter [<a href="/files/SMWNewsletter30_June2011.pdf" style="text-decoration:none;">link</a>] <br>
   - Selected as Editors' Suggestion and PRL cover image <br>
-  <img src="/images/cover.jpg" alt="PRL Cover Image" style="width:321px;height:400px;" align="left">
+  <img src="/images/cover.jpg" alt="PRL Cover Image" style="width:257px;height:320px;" align="left">
 
 
 
