@@ -45,7 +45,7 @@ author_profile: true
   <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.214102" style="text-decoration:none;">Physical review letters 106, no. 21 (2011): 214102.</a> <br>
   - See Synopsis in Physics [<a href="https://physics.aps.org/articles/v4/s79" style="text-decoration:none;">link</a>] <br>
   - See Soft Matter World Newsletter [<a href="/files/SMWNewsletter30_June2011.pdf" style="text-decoration:none;">link</a>] <br>
-  - Selected as Editors' Suggestion and PRL cover image
+  - Selected as Editors' Suggestion and PRL cover image <br>
   <img src="/images/cover.jpg" alt="PRL Cover Image" style="width:321px;height:400px;" align="left">
 
 
