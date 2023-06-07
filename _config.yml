@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Javad Najafi &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;"        
+title                    : "Javad Najafi &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;"        
 title_separator          : "-"
 name                     : &name "Javad Najafi"
 description              : &description "personal description"
